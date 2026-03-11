@@ -2,24 +2,24 @@
 <img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 </div>
 
-# ChainTrust: Blockchain-Powered Product Authenticity 🛡️
+# ChainTrust: Blockchain-Powered Product Authenticity 
 
 **ChainTrust** is a decentralized application designed to combat counterfeit products. It combines a simulated blockchain ledger with AI-powered visual analysis and market intelligence to verify product authenticity securely.
 
-## Features ✨
+## Features 
 
 * **Admin Panel (Register):** Register new products onto the secure ledger (simulated via `localStorage`) with a unique Serial ID, Name, and Manufacturer Wallet Address.
 * **Scanner (Verify):** Check a product's authenticity by entering its serial number to ensure it hasn't been duplicated or counterfeited.
 * **AI Image Analysis:** Upload photos of product packaging, seals, or logos. Our integrated AI (via OpenRouter) acts as an expert product inspector to detect physical anomalies indicating counterfeits.
 * **Market Intelligence:** Discover recent trends and new reporting on counterfeit goods using our integrated AI search feature.
 
-## Technology Stack 💻
+## Technology Stack 
 
 * **Frontend:** React 19, Vite, TypeScript, Tailwind CSS
 * **Blockchain Simulation:** Web Storage API (`localStorage`) with simulated network latency
 * **AI Integration:** OpenRouter API (supporting `gpt-4o-mini` and `mistral-7b-instruct` models)
 
-## Setup & Run Locally 🚀
+## Setup & Run Locally 
 
 **Prerequisites:** Node.js
 
