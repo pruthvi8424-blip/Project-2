@@ -1,0 +1,7 @@
+{
+  "name": "ChainTrust: Blockchain-Powered Product Authenticity",
+  "description": "A high-security platform for manufacturers to register products on a blockchain-simulated ledger and for users to verify authenticity via QR codes and Gemini-powered image analysis.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
