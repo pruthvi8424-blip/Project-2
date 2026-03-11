@@ -41,7 +41,7 @@
 
 4. **Access the App:** Open the local URL provided in your terminal.
 
-## How it Works ⚙️
+## How it Works 
 
 1. **Register:** Go to the "Register" tab to create your products. They will be logged securely in our simulated ledger.
 2. **Verify & Inspect:** In the "Verify" tab, scan a serial code or manually input it to confirm its authenticity. We ensure codes can't be reused infinitely. You can also upload a product image for AI analysis of its packaging.
